@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WeTool</string>
+    <string name="desc">Welcome to use WeTool</string>
 </resources>
